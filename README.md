@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋🏻, I'm Ceren Acay</h1>
 <h3 align="center">Software Engineering Student</h3>
 
-- 🌱 I’m currently learning, **Java and Swift**
+- 🌱 I’m currently learning **Java and Swift**
 
 - 📫 How to reach me : **cerenacay98@gmail.com**
 
