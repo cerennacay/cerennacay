@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏻, I'm @cerennacay</h1>
-- 🌱 I’m currently learning, Java and Swift
+- 🌱 I’m currently learning Java and Swift
 
 - 📫 How to reach me : **cerenacay98@gmail.com**
 
