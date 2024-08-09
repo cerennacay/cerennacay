@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Java and Swift**
 
--  Junior iOS Developer 
+-  I'm interested in **iOS development**
 
 - 📫 How to reach me : **cerenacay98@gmail.com**
 
